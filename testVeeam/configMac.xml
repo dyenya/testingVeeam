@@ -1,0 +1,12 @@
+<config>
+  <file
+    source_path="/Users/dyonya/Documents/Jobs"
+    destination_path="/Users/dyonya/Practise"
+    file_name="hello.rtf"
+  />
+  <file
+    source_path="from"
+    destination_path="aim"
+    file_name="hi.txt"
+  />
+</config>
